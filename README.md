@@ -3,6 +3,8 @@
 PryAaAncestors is :link:[pry](https://github.com/pry/pry) plugin.
 Show the class hierarchy that is ascii-art format.
 
+[![Gem Version](https://badge.fury.io/rb/pry-aa_ancestors.svg)](http://badge.fury.io/rb/pry-aa_ancestors)
+
 ~~~
 % pry
 [1] pry(main)> require 'prime'
